@@ -200,3 +200,15 @@ The API provides endpoints for:
 - Logs are sent to CloudWatch
 - Alarms are configured for error in Lambdas
 - Infrastructure is updated via CI/CD pipeline
+
+# Next steps
+
+## Extended monitoring
+
+- Configure CloudWatch Dashboards
+
+- Implement alarms for error or performance
+
+## Increase complexity
+
+- Add real-time data processing with Kinesis
